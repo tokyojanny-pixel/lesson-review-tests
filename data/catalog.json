@@ -13,6 +13,13 @@
       "title": "国会のしくみ｜間違えやすい8問",
       "description": "本編の後に／目安7〜10分。数字と事例を変えて、召集・特権・多数決の理解をもう一度確認。",
       "file": "civics-20260925-diet-review.json"
+    },
+    {
+      "id": "civics-20260926-diet-decisions",
+      "subject": "公民",
+      "title": "国会の意思決定と権限｜定期テスト対策",
+      "description": "9/26授業・全30問／目安20〜25分。委員会、公聴会、両院協議会、議決要件、国会の5分野の仕事、衆議院の優越、ねじれ国会を確認。",
+      "file": "civics-20260926-diet-decisions.json"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "subject-yyyymmdd-topic",
+  "version": 1,
+  "subject": "教科名",
+  "title": "授業のテーマ",
+  "description": "今回の学習範囲",
+  "questions": [
+    {
+      "id": "q1",
+      "level": "基礎",
+      "prompt": "問題文を入力",
+      "choices": ["選択肢1", "選択肢2", "選択肢3", "選択肢4"],
+      "answer": 0,
+      "hint": "答えを直接示さず、考え方を助けるヒント",
+      "explanation": "授業に基づく正解の理由。他の選択肢が違う理由も必要に応じて説明。",
+      "review": "もう一度確認する用語や考え方"
+    }
+  ]
+}

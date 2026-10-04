@@ -1,0 +1,309 @@
+{
+  "id": "english-20260924-subjunctive-lesson6-section1",
+  "version": 1,
+  "subject": "英語",
+  "title": "仮定法とLesson 6 Section 1｜定期テスト対策",
+  "description": "9/24授業・全30問／目安20〜25分。仮定法現在、if省略、as if、I wish、重要表現と彫刻家へのインタビューの内容を確認。",
+  "questions": [
+    {
+      "id": "q01",
+      "level": "基礎",
+      "prompt": "James requested that his chair (　) replaced with a new one. 空欄に入る最も適切な語は？",
+      "choices": ["is", "was", "be", "being"],
+      "answer": 2,
+      "hint": "requestに続くthat節では、主語が三人称単数でも動詞の形は変わりません。",
+      "explanation": "要求を表すrequestの後のthat節では、主語に関係なく動詞の原形を用いる。be動詞の原形はbeなので、that his chair be replacedとなる。",
+      "review": "request＋that＋主語＋動詞の原形。"
+    },
+    {
+      "id": "q02",
+      "level": "基礎",
+      "prompt": "request・advise・suggestなどに続くthat節で用いる動詞の形は？",
+      "choices": ["必ず現在形", "主語に関係なく原形", "必ず過去形", "必ず現在完了形"],
+      "answer": 1,
+      "hint": "この用法は仮定法現在と呼ばれます。",
+      "explanation": "提案・助言・要求を表す動詞に続くthat節では、動詞は主語に関係なく原形になる。should＋原形で表すこともできる。",
+      "review": "仮定法現在では主語に関係なく動詞の原形。"
+    },
+    {
+      "id": "q03",
+      "level": "基礎",
+      "prompt": "The teacher suggested that he (　) the book. 空欄に入る形は？",
+      "choices": ["reads", "read", "readed", "reading"],
+      "answer": 1,
+      "hint": "heだからといって三単現の-sを付けるとは限りません。",
+      "explanation": "suggestは提案を表すため、that節の動詞には原形readを用いる。主語がheでもreadsにはしない。",
+      "review": "suggestのthat節では三単現の-sを付けない。"
+    },
+    {
+      "id": "q04",
+      "level": "基礎",
+      "prompt": "「彼女は私たちが早く出発するよう助言した」に当たる英文は？",
+      "choices": ["She advised that we left early.", "She advised that we leave early.", "She advised that we leaves early.", "She advised that we leaving early."],
+      "answer": 1,
+      "hint": "adviseは助言を表す動詞です。",
+      "explanation": "adviseに続くthat節では動詞の原形を用いるため、we leave earlyが正しい。",
+      "review": "advise＋that＋主語＋動詞の原形。"
+    },
+    {
+      "id": "q05",
+      "level": "基礎",
+      "prompt": "James requested that his chair be replaced. とほぼ同じ内容を表す文は？",
+      "choices": ["James requested that his chair should be replaced.", "James requested that his chair would replace.", "James requested his chair replacing.", "James requested that his chair has replaced."],
+      "answer": 0,
+      "hint": "原形の代わりに、ある助動詞＋原形を使えます。",
+      "explanation": "このthat節はshould＋原形でも表せる。受け身なのでshould be replacedとなる。",
+      "review": "仮定法現在はshould＋原形でも表せる。"
+    },
+    {
+      "id": "q06",
+      "level": "基礎",
+      "prompt": "requestに続くthat節の仮定法現在について、正しい説明は？",
+      "choices": ["必ず「もし〜なら」という条件を表す", "過去に実際に起きたことだけを表す", "要求内容を表し、「もし〜なら」という意味ではない", "未来の予言だけに使う"],
+      "answer": 2,
+      "hint": "名称に「仮定法」とあっても、ifの条件文とは役割が異なります。",
+      "explanation": "requestなどの後の仮定法現在は、相手に求める内容をthat節で示す用法であり、「もし〜なら」という条件を表すものではない。",
+      "review": "仮定法現在とifを使う条件表現を混同しない。"
+    },
+    {
+      "id": "q07",
+      "level": "基礎",
+      "prompt": "I would appreciate it if you could help me. の意味として最も適切なものは？",
+      "choices": ["手伝ってくれたことを後悔します", "手伝っていただけるとありがたいです", "必ず私を手伝いなさい", "手伝えるかどうか知りません"],
+      "answer": 1,
+      "hint": "相手に丁寧に依頼するときの表現です。",
+      "explanation": "I would appreciate it if you could ... は「〜していただけるとありがたいです」という丁寧な依頼を表す。",
+      "review": "I would appreciate it if you could ... の意味。"
+    },
+    {
+      "id": "q08",
+      "level": "基礎",
+      "prompt": "I would appreciate it if you could ... のitの役割は？",
+      "choices": ["天候を表すit", "形式主語", "形式目的語", "if節の主語"],
+      "answer": 2,
+      "hint": "appreciateは他動詞なので、直後に目的語が必要です。",
+      "explanation": "itはappreciateの形式目的語で、感謝する具体的な内容は後ろのif節が示す。",
+      "review": "appreciateの形式目的語itと内容を示すif節。"
+    },
+    {
+      "id": "q09",
+      "level": "基礎",
+      "prompt": "If it had not been for your help, ... からifを省略した形は？",
+      "choices": ["It had not been for your help, ...", "Had it not been for your help, ...", "Had not it for your help, ...", "Were it not had your help, ..."],
+      "answer": 1,
+      "hint": "ifを省略すると、hadを主語の前へ出します。",
+      "explanation": "仮定法でifを省略すると倒置が起こる。If it had ... はHad it ... となるため、Had it not been for ... が正しい。",
+      "review": "if省略：If S had ... → Had S ...。"
+    },
+    {
+      "id": "q10",
+      "level": "基礎",
+      "prompt": "hardlyの意味として最も適切なものは？",
+      "choices": ["完全に", "たいてい", "ほとんど〜ない", "意図的に"],
+      "answer": 2,
+      "hint": "完全否定ではありませんが、否定に近い意味を持つ準否定語です。",
+      "explanation": "hardlyは「ほとんど〜ない」を表す準否定語である。notのような完全否定ではない点にも注意する。",
+      "review": "準否定語hardly＝ほとんど〜ない。"
+    },
+    {
+      "id": "q11",
+      "level": "標準",
+      "prompt": "Had I known the truth, I would have acted differently. と同じ意味の文は？",
+      "choices": ["If I know the truth, I act differently.", "If I had known the truth, I would have acted differently.", "If I knew the truth, I will act differently.", "Because I knew the truth, I acted differently."],
+      "answer": 1,
+      "hint": "文頭のHadは疑問文ではなく、ifを省略した倒置です。",
+      "explanation": "Had I known ... はIf I had known ... からifを省略し、hadを主語の前へ出した形である。",
+      "review": "Had＋主語＋過去分詞はif省略の仮定法過去完了になり得る。"
+    },
+    {
+      "id": "q12",
+      "level": "標準",
+      "prompt": "He talks as if he knew everything. が表す内容は？",
+      "choices": ["彼は実際に何もかも知っている", "彼はまるで何もかも知っているかのように話す", "彼は以前は何もかも知っていた", "彼は何も話さない"],
+      "answer": 1,
+      "hint": "as if＋過去形は、現在の事実とは異なる様子を表します。",
+      "explanation": "as if＋過去形は、現在の事実に反する仮定を表す。「実際にはすべてを知っているわけではないが、そのように話す」という意味になる。",
+      "review": "as if＋過去形＝現在の事実に反する「まるで〜のように」。"
+    },
+    {
+      "id": "q13",
+      "level": "標準",
+      "prompt": "She looked as if she had seen a ghost. のhad seenが表すのは？",
+      "choices": ["現在の事実と反対の仮定", "過去の事実と反対の仮定", "未来に必ず起きる予定", "日常的な習慣"],
+      "answer": 1,
+      "hint": "as ifの後ろが過去完了になっています。",
+      "explanation": "as if＋主語＋過去完了は、過去の事実に反することを「まるで〜だったかのように」と表す。",
+      "review": "as if＋過去完了＝過去の事実に反する仮定。"
+    },
+    {
+      "id": "q14",
+      "level": "標準",
+      "prompt": "I wish S would ... が表す気持ちとして最も適切なものは？",
+      "choices": ["Sが〜してくれたらいいのに", "Sが〜したに違いない", "Sが〜してはいけない", "Sが〜したことを知らない"],
+      "answer": 0,
+      "hint": "wishは現状とは違うことへの願望を表します。",
+      "explanation": "I wish S would ... は、相手の行動や状況の変化を望み「Sが〜してくれたらいいのに」と願う表現である。",
+      "review": "I wish S would ... の願望の意味。"
+    },
+    {
+      "id": "q15",
+      "level": "標準",
+      "prompt": "He graduated from art school, majoring in sculpture. のmajoring in sculptureの働きは？",
+      "choices": ["彫刻を専攻していたことを付け加える分詞構文", "art schoolを目的語にする不定詞", "卒業を否定する表現", "未来の予定を表す助動詞"],
+      "answer": 0,
+      "hint": "主語はHeのままで、卒業時の事情を補足しています。",
+      "explanation": "majoring in sculptureは分詞構文で、「彫刻を専攻して（美術学校を卒業した）」と主語の付帯的な状況を説明する。",
+      "review": "graduate from＋学校、majoring in＋専攻。"
+    },
+    {
+      "id": "q16",
+      "level": "標準",
+      "prompt": "He went to Europe with only a little money. のonly a littleが示すものは？",
+      "choices": ["お金がまったくなかった", "お金がごくわずかしかなかった", "小さな硬貨が一枚だけあった", "十分なお金があった"],
+      "answer": 1,
+      "hint": "moneyは数えられない名詞として扱います。",
+      "explanation": "a littleは不可算名詞に用いて「少し」を表し、onlyが付くことで「ごくわずかしかない」という少なさが強調される。",
+      "review": "only a little＋不可算名詞＝ごくわずかしかない。"
+    },
+    {
+      "id": "q17",
+      "level": "標準",
+      "prompt": "What if it does not work out? の意味は？",
+      "choices": ["うまくいったのはなぜですか", "うまくいかなかったらどうしよう", "いつうまくいきましたか", "うまくいくよう努力しなさい"],
+      "answer": 1,
+      "hint": "What if S V? は起こり得る場合とその結果を気にする表現です。",
+      "explanation": "What if S V? は「もしSがVしたらどうなるだろうか」を表す。ここでは「うまくいかなかったらどうしよう」となる。",
+      "review": "What if S V?＝もしSがVしたらどうなるだろう。"
+    },
+    {
+      "id": "q18",
+      "level": "標準",
+      "prompt": "I found myself on a street lined with bars. のfound myselfの意味は？",
+      "choices": ["自分自身を捜し出した", "自分の性格を分析した", "気づくと自分は〜にいた", "自分から通りを設計した"],
+      "answer": 2,
+      "hint": "意識して計画したというより、あとで自分のいる場所に気づく感じです。",
+      "explanation": "find oneself＋場所・状態は「気づくと〜にいる／〜の状態である」を表す。この文では、気づくと飲み屋が立ち並ぶ通りにいたという意味になる。",
+      "review": "find oneself＋場所・状態の意味。"
+    },
+    {
+      "id": "q19",
+      "level": "標準",
+      "prompt": "a street lined with bars のlined with barsはどのような働きをする？",
+      "choices": ["過去分詞句としてstreetを後ろから修飾する", "barsを主語にする疑問文を作る", "streetの動作を表す現在進行形になる", "未来の予定を表す"],
+      "answer": 0,
+      "hint": "「飲み屋が立ち並ぶ」という情報が、どの名詞を説明しているか考えよう。",
+      "explanation": "lined with barsは過去分詞を中心とする句で、前の名詞a streetを後ろから修飾し「飲み屋が立ち並ぶ通り」を表す。",
+      "review": "過去分詞句による名詞の後置修飾。"
+    },
+    {
+      "id": "q20",
+      "level": "標準",
+      "prompt": "The warm atmosphere made me feel at home. の文型と意味の組合せは？",
+      "choices": ["make＋目的語＋原形／温かな雰囲気が私をくつろいだ気持ちにさせた", "make＋目的語＋過去分詞／私は家を建てさせられた", "make＋that節／雰囲気が家だと証明した", "make＋目的語＋to不定詞／私は帰宅するよう命じられた"],
+      "answer": 0,
+      "hint": "madeの後にme、その後に動詞の原形feelがあります。",
+      "explanation": "make＋目的語＋動詞の原形は「目的語に〜させる」という使役を表す。feel at homeは「くつろぐ」なので、温かな雰囲気が私をくつろいだ気持ちにさせた、となる。",
+      "review": "make＋O＋原形とfeel at home。"
+    },
+    {
+      "id": "q21",
+      "level": "定期テスト",
+      "prompt": "インタビューの人物が彫刻家になる前の経歴として正しいものは？",
+      "choices": ["美術学校で絵画を専攻し、すぐ画家になった", "美術学校で彫刻を専攻して卒業し、いったん美術教師になった", "大学で語学を学び、通訳になった", "建設会社で石材販売だけを続けた"],
+      "answer": 1,
+      "hint": "専攻した分野と、卒業直後の職業をセットで思い出そう。",
+      "explanation": "人物は美術学校で彫刻を専攻して卒業した後、すぐ彫刻家になったのではなく、いったん美術教師になった。",
+      "review": "彫刻専攻→卒業→美術教師という経歴。"
+    },
+    {
+      "id": "q22",
+      "level": "定期テスト",
+      "prompt": "美術教師だった人物が彫刻家への道を選ぶ直接の転機は？",
+      "choices": ["展覧会で大賞を取ったこと", "運転中に建設石材の山を見て、石を彫りたいという内なる声を聞いたこと", "パリの学校から招待されたこと", "家族から教師を辞めるよう命じられたこと"],
+      "answer": 1,
+      "hint": "車を運転していたとき、目に入った素材に注目。",
+      "explanation": "運転中に建設石材の山を見た瞬間、「石を彫りたい」という内なる声を聞いたことが転機となった。",
+      "review": "石材の山と内なる声が転機。"
+    },
+    {
+      "id": "q23",
+      "level": "定期テスト",
+      "prompt": "ヨーロッパへ行くと決めた当時の人物の心境として最も適切なものは？",
+      "choices": ["十分な資金が貯まるまで何年も待とうとした", "失敗した場合だけを考えて動けなかった", "所持金はわずかだったが、うまくいかなかった場合を考えずに決断した", "教師の仕事に満足していたので旅行を断った"],
+      "answer": 2,
+      "hint": "お金の少なさと、What if ... を考えなかった点を結びつけよう。",
+      "explanation": "所持金はごくわずかだったが、「うまくいかなかったらどうしよう」とは考えず、仕事を辞めてヨーロッパへ向かう決意をした。",
+      "review": "only a little moneyと、失敗を恐れない決断。"
+    },
+    {
+      "id": "q24",
+      "level": "定期テスト",
+      "prompt": "パリで人物が「自分の居場所がない」と感じた理由は？",
+      "choices": ["街が頑丈に作られすぎ、何も触れられないように感じたから", "彫刻作品が一つもなかったから", "食事をする場所がなかったから", "美術教師として働くよう求められたから"],
+      "answer": 0,
+      "hint": "街の造りと、素材に触れて仕事をしたい人物の感覚を結びつけよう。",
+      "explanation": "パリは頑丈に作られすぎていて「何も触れられない」と感じたため、自分の居場所ではないと思った。",
+      "review": "パリの頑丈さと「何も触れられない」という感覚。"
+    },
+    {
+      "id": "q25",
+      "level": "定期テスト",
+      "prompt": "パリの次に人物が向かった都市は？",
+      "choices": ["ロンドン", "ローマ", "バルセロナ", "ベルリン"],
+      "answer": 2,
+      "hint": "スペインのカタルーニャ州にある都市です。",
+      "explanation": "パリに居場所がないと感じた人物は、次にバルセロナ行きの列車へ飛び乗った。",
+      "review": "旅の順序：パリ→バルセロナ。"
+    },
+    {
+      "id": "q26",
+      "level": "定期テスト",
+      "prompt": "人物が夜遅くバルセロナに到着し、駅を出たときにいた場所は？",
+      "choices": ["彫刻家の工房", "飲み屋が立ち並ぶ通り", "静かな住宅街", "建設石材の採掘場"],
+      "answer": 1,
+      "hint": "a street lined with barsの内容を思い出そう。",
+      "explanation": "人物は夜遅く到着し、駅から歩いて出ると、気づけば飲み屋が立ち並ぶ通りにいた。",
+      "review": "walk out of the stationとa street lined with bars。"
+    },
+    {
+      "id": "q27",
+      "level": "定期テスト",
+      "prompt": "バルセロナ到着時の言語に関する状況は？",
+      "choices": ["スペイン語もカタルーニャ語も流暢だった", "英語以外のヨーロッパ言語をすべて話せた", "スペイン語とカタルーニャ語はほとんど分からなかった", "現地では言葉を一切使う必要がなかった"],
+      "answer": 2,
+      "hint": "ここでhardlyの意味が内容理解にもつながります。",
+      "explanation": "人物はスペイン語もカタルーニャ語もほとんど分からなかった。それでも食事と周囲の雰囲気によって安心感を得た。",
+      "review": "hardly understand＝ほとんど分からない。"
+    },
+    {
+      "id": "q28",
+      "level": "定期テスト",
+      "prompt": "バルセロナ到着の夜に人物が取った食事の組合せは？",
+      "choices": ["イワシ・トマト・ワイン", "パン・チーズ・紅茶", "パスタ・肉・コーヒー", "米・魚・水"],
+      "answer": 0,
+      "hint": "海辺の街らしい魚と、野菜、飲み物のシンプルな組合せです。",
+      "explanation": "その夜の食事は、イワシ、トマト、ワインというシンプルなものだった。",
+      "review": "バルセロナでの最初の夜の食事。"
+    },
+    {
+      "id": "q29",
+      "level": "定期テスト",
+      "prompt": "言葉がほとんど分からないのに、人物がバルセロナでfeel at homeと感じた理由は？",
+      "choices": ["以前から自分の家を所有していたから", "街がパリより頑丈だったから", "シンプルな食事と温かな雰囲気にくつろぎを感じたから", "すぐに美術教師の仕事が見つかったから"],
+      "answer": 2,
+      "hint": "言語能力ではなく、その夜の食事と周囲の空気に注目。",
+      "explanation": "言葉はほとんど分からなかったが、イワシ、トマト、ワインの食事と温かな雰囲気が、人物をくつろいだ気持ちにさせた。",
+      "review": "feel at homeを生んだ食事と温かな雰囲気。"
+    },
+    {
+      "id": "q30",
+      "level": "定期テスト",
+      "prompt": "このインタビュー部分の展開を正しい順序で並べたものは？",
+      "choices": ["美術教師→石材の山との出会い→パリ→バルセロナで安心感", "パリ→美術学校→美術教師→石材の山との出会い", "バルセロナ→パリ→美術学校→彫刻専攻", "石材の山との出会い→美術教師→美術学校→パリ"],
+      "answer": 0,
+      "hint": "職業、転機、二つの都市での経験という順に整理しよう。",
+      "explanation": "美術教師として迷っていた人物は、石材の山を見たことを転機にヨーロッパへ向かう。パリには居場所がないと感じ、次のバルセロナで温かさと安心感を得た。",
+      "review": "経歴と旅の因果関係を時系列で整理する。"
+    }
+  ]
+}

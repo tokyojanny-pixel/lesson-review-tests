@@ -1,0 +1,309 @@
+{
+  "id": "english-classics-20260915-lesson6-dannoura",
+  "version": 1,
+  "subject": "英語・古典",
+  "title": "Lesson 6文法・平家物語「壇ノ浦」｜定期テスト対策",
+  "description": "9/15授業・全30問／目安20〜25分。分詞構文、助動詞＋have＋過去分詞、仮定法過去完了、whether節と、壇ノ浦の戦い・安徳天皇入水までの内容を確認。",
+  "questions": [
+    {
+      "id": "q01",
+      "level": "基礎",
+      "prompt": "分詞構文を否定形にするとき、notを置く位置は？",
+      "choices": ["分詞の直前", "分詞の直後", "主節の動詞の直後", "文末"],
+      "answer": 0,
+      "hint": "Not knowing what to do の語順を思い出そう。",
+      "explanation": "分詞構文の否定は、分詞の直前にnotを置く。したがってnot knowingの語順になる。",
+      "review": "分詞構文の否定：not＋分詞。"
+    },
+    {
+      "id": "q02",
+      "level": "基礎",
+      "prompt": "「何をすべきか分からなかったので」に当たる分詞構文として正しいものは？",
+      "choices": ["Knowing not what to do", "Not known what to do", "Having not know what to do", "Not knowing what to do"],
+      "answer": 3,
+      "hint": "否定語の位置と、knowの現在分詞を確認しよう。",
+      "explanation": "否定のnotを現在分詞knowingの前に置き、Not knowing what to doとする。",
+      "review": "Not knowing what to do の形と意味。"
+    },
+    {
+      "id": "q03",
+      "level": "基礎",
+      "prompt": "having＋過去分詞を使う完了形の分詞構文は、主に何を表す？",
+      "choices": ["主節より前に起きたこと", "主節と必ず同時に起きること", "主節より後の予定", "現在の習慣"],
+      "answer": 0,
+      "hint": "完了形は、2つの出来事の時間の前後関係を示します。",
+      "explanation": "having＋過去分詞は、分詞構文の内容が主節の出来事より前に起きたことを表す。",
+      "review": "完了形の分詞構文：having＋過去分詞。"
+    },
+    {
+      "id": "q04",
+      "level": "基礎",
+      "prompt": "完了形の分詞構文を否定する形として正しいものは？",
+      "choices": ["having not＋過去分詞", "not have＋過去分詞", "not having＋過去分詞", "having＋not＋動詞の原形"],
+      "answer": 2,
+      "hint": "分詞構文の否定では、notを分詞の直前に置きます。",
+      "explanation": "完了形の分詞構文having＋過去分詞の前にnotを置き、not having＋過去分詞とする。",
+      "review": "完了形の否定：not having＋過去分詞。"
+    },
+    {
+      "id": "q05",
+      "level": "基礎",
+      "prompt": "Asked if S V, ... の意味として最も適切なものは？",
+      "choices": ["SVかどうか尋ねると", "SVするよう命じると", "SVしたことを後悔すると", "SVかどうか尋ねられると"],
+      "answer": 3,
+      "hint": "Askedは過去分詞で、主語が質問を受ける側です。",
+      "explanation": "Askedは受け身の意味を持つ過去分詞で、Asked if S Vは「SVかどうか尋ねられると」を表す。",
+      "review": "過去分詞で始まる受け身の分詞構文。"
+    },
+    {
+      "id": "q06",
+      "level": "基礎",
+      "prompt": "It must have been hard to fit in. の意味は？",
+      "choices": ["溶け込むのは大変だったに違いない", "溶け込むべきではなかった", "溶け込めたかもしれない", "溶け込む必要はなかった"],
+      "answer": 0,
+      "hint": "must have＋過去分詞は、過去についての強い推量です。",
+      "explanation": "must have＋過去分詞は「〜だったに違いない」という過去への断定的な推量を表す。",
+      "review": "must have＋過去分詞＝〜だったに違いない。"
+    },
+    {
+      "id": "q07",
+      "level": "基礎",
+      "prompt": "I should have known that. が表す内容として最も適切なものは？",
+      "choices": ["それを知っておくべきだったのに、実際は知らなかった", "それを知っていたに違いない", "それを知るはずがない", "それを知ることもできた"],
+      "answer": 0,
+      "hint": "should have＋過去分詞は、実際にはしなかった行動への後悔を表します。",
+      "explanation": "should have knownは「知っておくべきだったのに」という後悔・非難を表し、実際には知らなかったことを含意する。",
+      "review": "should have＋過去分詞＝〜すべきだったのに。"
+    },
+    {
+      "id": "q08",
+      "level": "基礎",
+      "prompt": "You shouldn't have called me so early. の意味は？",
+      "choices": ["そんなに早く電話すべきだった", "そんなに早く電話したはずがない", "そんなに早く電話すべきではなかったのに", "そんなに早く電話できなかった"],
+      "answer": 2,
+      "hint": "実際には電話してしまったことへの非難です。",
+      "explanation": "shouldn't have＋過去分詞は「〜すべきではなかったのに」と、実際にしてしまった過去の行動を後悔・非難する。",
+      "review": "shouldn't have＋過去分詞＝〜すべきではなかったのに。"
+    },
+    {
+      "id": "q09",
+      "level": "基礎",
+      "prompt": "She might have missed the bus. の意味は？",
+      "choices": ["彼女は必ずバスに乗り遅れた", "彼女はバスに乗り遅れるべきだった", "彼女がバスに乗り遅れたはずはない", "彼女はバスに乗り遅れたのかもしれない"],
+      "answer": 3,
+      "hint": "might have＋過去分詞は、不確実な過去の推量です。",
+      "explanation": "might have missedは「乗り遅れたかもしれない」という不確実な推量を表す。mightはmayより可能性が低めのニュアンスを持つ。",
+      "review": "might have＋過去分詞＝〜したかもしれない。"
+    },
+    {
+      "id": "q10",
+      "level": "基礎",
+      "prompt": "We could have taken the taxi, but we decided to walk. が示す事実は？",
+      "choices": ["実際にタクシーに乗った", "歩くことが不可能だった", "タクシーに乗ることもできたが、実際には歩いた", "タクシーに乗ったに違いない"],
+      "answer": 2,
+      "hint": "but以下に、実際に選んだ行動があります。",
+      "explanation": "could have takenは実現しなかった可能性・選択肢を示す。タクシーも選べたが、実際には歩くことを選んだ。",
+      "review": "could have＋過去分詞＝〜することもできたのに。"
+    },
+    {
+      "id": "q11",
+      "level": "標準",
+      "prompt": "「彼が病気だったはずがない」に当たる英文は？",
+      "choices": ["He must not have been sick.", "He cannot have been sick.", "He should have been sick.", "He might have been sick."],
+      "answer": 1,
+      "hint": "過去について強く否定して推量する表現を選ぼう。",
+      "explanation": "cannot have＋過去分詞は「〜だったはずがない」という強い否定的推量を表す。",
+      "review": "cannot have＋過去分詞＝〜だったはずがない。"
+    },
+    {
+      "id": "q12",
+      "level": "標準",
+      "prompt": "友人が約束の時刻に来なかった。「道に迷ったのかもしれない」と推量する文は？",
+      "choices": ["My friend should have got lost.", "My friend cannot have got lost.", "My friend might have got lost.", "My friend shouldn't have got lost."],
+      "answer": 2,
+      "hint": "後悔や強い否定ではなく、不確実な可能性を表します。",
+      "explanation": "不確実な過去の推量なのでmight have＋過去分詞を用いる。should haveは後悔・非難、cannot haveは強い否定的推量になる。",
+      "review": "文脈からmust・should・might・could・cannotを使い分ける。"
+    },
+    {
+      "id": "q13",
+      "level": "標準",
+      "prompt": "過去の事実に反する仮定を表す基本形は？",
+      "choices": ["if＋S＋過去形, S＋would＋原形", "if＋S＋現在形, S＋will＋原形", "if＋S＋have＋過去分詞, S＋would＋原形", "if＋S＋had＋過去分詞, S＋would have＋過去分詞"],
+      "answer": 3,
+      "hint": "if節と主節の両方に、過去よりさらに前を示す形が現れます。",
+      "explanation": "仮定法過去完了は、if＋S＋had＋過去分詞, S＋would have＋過去分詞の形で、過去の事実に反する仮定を表す。",
+      "review": "仮定法過去完了の基本形。"
+    },
+    {
+      "id": "q14",
+      "level": "標準",
+      "prompt": "If you hadn't come to help me, I would have been in big trouble. から分かる実際の事実は？",
+      "choices": ["あなたは助けに来ず、私は大変なことになった", "あなたが助けに来るかどうか分からなかった", "あなたは助けに来たので、私は大変なことにならずに済んだ", "私はあなたを助けに行った"],
+      "answer": 2,
+      "hint": "仮定法は、実際の事実と反対の内容を述べています。",
+      "explanation": "「もし助けに来てくれなかったら、大変なことになっていただろう」は過去の事実に反する仮定。実際には助けに来てくれたため、大変なことにならずに済んだ。",
+      "review": "仮定法の文から実際の事実を逆算する。"
+    },
+    {
+      "id": "q15",
+      "level": "標準",
+      "prompt": "The question was whether I could meet everyone's expectations. のwhether節の働きは？",
+      "choices": ["主語を修飾する形容詞節", "時を表す副詞節", "目的を表す不定詞句", "補語Cとしてquestionの内容を示す"],
+      "answer": 3,
+      "hint": "The question＝whether ... という関係です。",
+      "explanation": "whether I could meet everyone's expectationsはbe動詞の後ろで補語Cとなり、「問題」の具体的な内容を示している。",
+      "review": "S is whether ...：whether節が補語Cになる。"
+    },
+    {
+      "id": "q16",
+      "level": "標準",
+      "prompt": "「問題は、その計画が成功するかどうかだ」に当たる英文は？",
+      "choices": ["The question is that the plan will succeed.", "The question whether is the plan will succeed.", "The question is whether the plan will succeed.", "Whether the question the plan will succeed is."],
+      "answer": 2,
+      "hint": "The question is whether ... の形を使います。",
+      "explanation": "「問題は〜かどうかだ」はThe question is whether ...で表す。whether節が補語として問題の内容を示す。",
+      "review": "The question is whether ... の語順。"
+    },
+    {
+      "id": "q17",
+      "level": "定期テスト",
+      "prompt": "What we want to know is whether the robot can be used easily. の意味は？",
+      "choices": ["私たちはそのロボットを簡単に使いたい", "私たちが知りたいのは、そのロボットが簡単に使えるかどうかだ", "そのロボットは簡単に使えると私たちは知っている", "私たちが作りたいものは簡単なロボットだ"],
+      "answer": 1,
+      "hint": "What we want to knowが主語、whether以下が補語です。",
+      "explanation": "What we want to knowは「私たちが知りたいこと」、whether ...は「〜かどうか」。両者をbe動詞で結んだS is Cの文である。",
+      "review": "What S V is whether ... の構造と訳。"
+    },
+    {
+      "id": "q18",
+      "level": "定期テスト",
+      "prompt": "次のうち、文法と意味の組合せが正しいものは？",
+      "choices": ["must have done＝〜すべきだったのに", "should have done＝〜したかもしれない", "cannot have done＝〜したはずがない", "could have done＝〜したに違いない"],
+      "answer": 2,
+      "hint": "強い否定的推量を表す形を探そう。",
+      "explanation": "cannot have doneは「〜したはずがない」。must have doneは「〜したに違いない」、should have doneは「〜すべきだったのに」、could have doneは「〜することもできたのに」である。",
+      "review": "助動詞＋have＋過去分詞の意味をまとめて区別する。"
+    },
+    {
+      "id": "q19",
+      "level": "基礎",
+      "prompt": "壇ノ浦の戦いが行われた場所として正しいものは？",
+      "choices": ["現在の関門海峡", "現在の琵琶湖", "現在の東京湾", "現在の津軽海峡"],
+      "answer": 0,
+      "hint": "本州と九州の間の海峡です。",
+      "explanation": "壇ノ浦は現在の関門海峡にあたり、ここで源平の決戦が行われた。",
+      "review": "壇ノ浦＝現在の関門海峡。"
+    },
+    {
+      "id": "q20",
+      "level": "基礎",
+      "prompt": "授業で確認した戦いの順序として正しいものは？",
+      "choices": ["壇ノ浦→一ノ谷→屋島", "屋島→壇ノ浦→一ノ谷", "屋島→一ノ谷→壇ノ浦", "一ノ谷→屋島→壇ノ浦"],
+      "answer": 3,
+      "hint": "平家は一ノ谷で敗れて西国へ逃れ、その後も追討を受けました。",
+      "explanation": "平家は一ノ谷で敗れて西国へ逃れ、屋島の戦いを経て、最後に壇ノ浦で源平の決戦を迎えた。",
+      "review": "一ノ谷→屋島→壇ノ浦という流れ。"
+    },
+    {
+      "id": "q21",
+      "level": "基礎",
+      "prompt": "元暦2年（1185年）の屋島の戦いと壇ノ浦の戦いの日付の組合せは？",
+      "choices": ["屋島2月19日・壇ノ浦3月24日", "屋島3月24日・壇ノ浦2月19日", "屋島1月1日・壇ノ浦2月1日", "屋島8月15日・壇ノ浦9月15日"],
+      "answer": 0,
+      "hint": "屋島が先で2月、壇ノ浦が後で3月です。",
+      "explanation": "屋島の戦いは元暦2年2月19日、壇ノ浦の戦いは同年3月24日に行われた。",
+      "review": "1185年：屋島2月19日、壇ノ浦3月24日。"
+    },
+    {
+      "id": "q22",
+      "level": "標準",
+      "prompt": "壇ノ浦で平家の船が動かせなくなった直接の理由は？",
+      "choices": ["すべての船が嵐で壊れたから", "兵が陸へ逃げたから", "水主・楫取が殺されたから", "潮が完全に止まったから"],
+      "answer": 2,
+      "hint": "船を操る役割の人々に何が起きたかを思い出そう。",
+      "explanation": "船を操る水主・楫取たちが殺されたため、平家は船を動かせなくなった。",
+      "review": "水主・楫取の役割と、敗北への因果関係。"
+    },
+    {
+      "id": "q23",
+      "level": "標準",
+      "prompt": "壇ノ浦の戦況について正しい説明は？",
+      "choices": ["最初から最後まで平家が一方的に勝っていた", "戦いは陸上だけで行われた", "両軍は戦わず和解した", "海流の影響で一進一退したが、源氏が平家の船に乗り移り、平家は敗走した"],
+      "answer": 3,
+      "hint": "海上戦ならではの条件と、最後の展開を結びつけよう。",
+      "explanation": "戦況は海流の影響で一進一退したが、最終的に源氏が平家の船へ乗り移り、平家は敗走した。",
+      "review": "海流の影響→源氏の乗船→平家敗走。"
+    },
+    {
+      "id": "q24",
+      "level": "標準",
+      "prompt": "敗北を悟った新中納言知盛が、船上を掃き清めた理由として最も適切なものは？",
+      "choices": ["宴会の準備をするため", "戦いの場・最期を迎える場を整えるため", "源氏に船を売るため", "安徳天皇を驚かせるため"],
+      "answer": 1,
+      "hint": "知盛は平家の敗北をすでに悟っていました。",
+      "explanation": "知盛は敗北を悟り、見苦しい者は海へ身を投げよと叫びながら、最期の戦いの場を整えるように船上を掃き清めた。",
+      "review": "知盛の覚悟と、船上を掃く行動の意味。"
+    },
+    {
+      "id": "q25",
+      "level": "標準",
+      "prompt": "女房たちに戦況を尋ねられた知盛は、どのように答えた？",
+      "choices": ["勝利は間違いないと断言した", "珍しい東国の男たちをご覧になれるでしょうと冗談を言った", "戦況を知らないと泣き出した", "すぐ都へ帰れると約束した"],
+      "answer": 1,
+      "hint": "深刻な状況の中で、知盛は笑いながら答えました。",
+      "explanation": "知盛は、迫る源氏の武者を「珍しい東国の男たち」と表現し、冗談を言って笑った。",
+      "review": "極限状況における知盛の言動。"
+    },
+    {
+      "id": "q26",
+      "level": "定期テスト",
+      "prompt": "二位殿が入水の際に携えた神器は？",
+      "choices": ["神璽と宝剣", "鏡と弓", "神璽と鏡だけ", "宝剣と矢"],
+      "answer": 0,
+      "hint": "授業で挙げられた2つを選ぼう。",
+      "explanation": "二位殿は覚悟を決め、神器である神璽と宝剣を携え、安徳天皇を抱いて船端へ進んだ。",
+      "review": "二位殿が携えた神器：神璽と宝剣。"
+    },
+    {
+      "id": "q27",
+      "level": "定期テスト",
+      "prompt": "入水時の安徳天皇について正しいものは？",
+      "choices": ["18歳で、自ら一人で船を降りた", "8歳で、二位殿に抱かれていた", "5歳で、知盛に抱かれていた", "12歳で、源氏側に保護された"],
+      "answer": 1,
+      "hint": "年齢と、天皇を抱いていた人物をセットで確認しよう。",
+      "explanation": "安徳天皇は8歳で、祖母にあたる二位殿に抱かれて船端へ進んだ。",
+      "review": "8歳の安徳天皇と二位殿。"
+    },
+    {
+      "id": "q28",
+      "level": "定期テスト",
+      "prompt": "二位殿が安徳天皇に、最初に東を拝ませた理由は？",
+      "choices": ["東国の源氏に降伏するため", "東にある伊勢神宮へ別れを告げるため", "日の出を観察するため", "都の方角を確かめるため"],
+      "answer": 1,
+      "hint": "東にある神聖な場所への別れです。",
+      "explanation": "二位殿は、まず東の伊勢神宮に別れを告げ、その後、西の極楽浄土へ向かおうと説明した。",
+      "review": "東＝伊勢神宮、西＝極楽浄土。"
+    },
+    {
+      "id": "q29",
+      "level": "定期テスト",
+      "prompt": "二位殿の「波の下にも都がございます」という言葉の意味として最も適切なものは？",
+      "choices": ["海底に実在する都を探しに行くという地理的説明", "死への恐怖を和らげ、安徳天皇を慰めて入水へ導く言葉", "源氏が海中に都を建設したという報告", "船が都へ戻るという合図"],
+      "answer": 1,
+      "hint": "幼い天皇に、これから向かう場所をどう受け止めさせようとしたか考えよう。",
+      "explanation": "この言葉は、海の下にも安住できる都があるかのように語って幼い安徳天皇を慰め、恐怖を和らげる働きをする。",
+      "review": "「波の下にも都」の場面での役割。"
+    },
+    {
+      "id": "q30",
+      "level": "定期テスト",
+      "prompt": "安徳天皇が入水するまでの行動順序として正しいものは？",
+      "choices": ["西を拝む→東へ念仏→入水", "東を拝む→西を向いて念仏→二位殿に抱かれて入水", "念仏→源氏に降伏→入水", "入水→東を拝む→西へ向かう"],
+      "answer": 1,
+      "hint": "伊勢神宮の方角、極楽浄土の方角、最後の行動の順です。",
+      "explanation": "安徳天皇は二位殿に言われた通り、まず東を拝み、次に西へ向かって念仏を唱えた後、二位殿に抱かれて入水した。",
+      "review": "東を拝む→西へ念仏→入水という場面の順序。"
+    }
+  ]
+}

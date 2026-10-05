@@ -1,6 +1,13 @@
 {
   "tests": [
     {
+      "id": "mathematics-20260912-locus",
+      "subject": "数学",
+      "title": "軌跡｜定期テスト対策",
+      "description": "9/12授業・全30問／目安25〜30分。軌跡の定義、必要条件・十分条件、等距離・距離差・距離比、アポロニウスの円を確認。",
+      "file": "mathematics-20260912-locus.json"
+    },
+    {
       "id": "civics-20260925-diet",
       "subject": "公民",
       "title": "国会のしくみ｜定期テスト対策",

@@ -1,6 +1,13 @@
 {
   "tests": [
     {
+      "id": "civics-20260911-house-of-representatives-election",
+      "subject": "公民",
+      "title": "衆議院議員総選挙｜定期テスト対策",
+      "description": "9/11授業・全30問／目安25〜30分。選挙の原則、選挙制度の比較、並立制、重複立候補・惜敗率、ドント方式、制度史とアダムズ方式を確認。",
+      "file": "civics-20260911-house-of-representatives-election.json"
+    },
+    {
       "id": "mathematics-20260912-locus",
       "subject": "数学",
       "title": "軌跡｜定期テスト対策",

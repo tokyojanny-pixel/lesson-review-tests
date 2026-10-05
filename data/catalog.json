@@ -1,6 +1,13 @@
 {
   "tests": [
     {
+      "id": "geography-20260910-map-resources-geopolitics",
+      "subject": "地理",
+      "title": "地図図法と西・中央アジアの資源地政学｜定期テスト対策",
+      "description": "9/10授業・全30問／目安25〜30分。メルカトル・Equal Earth、国連決議、石油・天然ガス、OPEC、カスピ海、一帯一路、統計指標の読み方を確認。",
+      "file": "geography-20260910-map-resources-geopolitics.json"
+    },
+    {
       "id": "geography-20260911-europe-religion-eu",
       "subject": "地理",
       "title": "ヨーロッパの宗教文化とEU統合｜定期テスト対策",

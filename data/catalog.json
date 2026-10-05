@@ -1,6 +1,13 @@
 {
   "tests": [
     {
+      "id": "mathematics-20260902-circle-equation",
+      "subject": "数学",
+      "title": "円の方程式｜定期テスト対策",
+      "description": "9/2授業・全30問／目安25〜30分。標準形、中心・半径、直径の両端、一般形への展開、平方完成、Kの符号による図形判定を確認。",
+      "file": "mathematics-20260902-circle-equation.json"
+    },
+    {
       "id": "geography-20260903-islam-west-central-asia",
       "subject": "地理",
       "title": "イスラームと西・中央アジア｜定期テスト対策",

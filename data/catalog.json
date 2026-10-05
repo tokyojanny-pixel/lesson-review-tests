@@ -1,6 +1,13 @@
 {
   "tests": [
     {
+      "id": "geography-20260903-islam-west-central-asia",
+      "subject": "地理",
+      "title": "イスラームと西・中央アジア｜定期テスト対策",
+      "description": "9/3授業・全30問／目安25〜30分。イスラームの成立、六信五行、生活規範、スンナ派・シーア派、民族・宗教分布、中央アジア、宗教と人権を確認。",
+      "file": "geography-20260903-islam-west-central-asia.json"
+    },
+    {
       "id": "geography-west-central-asia-water-climate",
       "subject": "地理",
       "title": "西・中央アジアの水利用・環境問題と気候判定｜定期テスト対策",
